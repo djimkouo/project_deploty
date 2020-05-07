@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Ma page</title>
@@ -29,7 +28,7 @@
 		<div class="lien1">
 			<a href="https://www.acerfi.net/en/contactus">contact-us</a>
 		</div>
-	</div class="div4">
+	</div>
 	<h2 class="titre2">Online training: our courses</h2>
 	<div class="div5">
 		<div class="div6">

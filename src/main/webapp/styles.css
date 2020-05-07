@@ -4,7 +4,7 @@
 	font-family: calibri, sans-serif;
 }
 .parallax{
-	background-image: url(fichier/couverture.jpg);
+	background-image: url(images/couverture.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -274,7 +274,7 @@
 	right: -500px;
 	top: -10px;
 }
-./* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) 
+/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen)
 .icon-bar {
   position: fixed;
   top: 50%;
