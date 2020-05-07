@@ -11,10 +11,10 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN
+  github_token: IvwD44qu8J5C-TUsnv5TiA
   keep_history: true
   edge: true
-  token: $GITHUB_TOKEN
+  token: IvwD44qu8J5C-TUsnv5TiA
   local_dir: src/main/webapp/
   on:
     branch: master
