@@ -14,7 +14,5 @@ deploy:
   github_token: $GITHUB_TOKEN
   keep_history: true
   edge: true
-  token: $GITHUB_TOKEN
-  local_dir: src/main/webapp/
   on:
     branch: master
